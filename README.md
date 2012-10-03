@@ -1,7 +1,7 @@
 orchard-powershell
 ==================
 
-Some scripts to help backup and deploy Orchard websites.
+Some scripts to help backup and deploy Orchard websites. Usefull if you want to create an exact replica of an Orchard deployment from staging/production/etc environment, to practice migrations or reproduce issues on your local machine. 
 
 Examples
 --------
