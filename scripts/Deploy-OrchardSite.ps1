@@ -45,6 +45,7 @@ function Set-AppOnline {
 
 Import-Module WebAdministration
 Import-Module PSCX 
+. ".\Orchard-Common.ps1"
 . ".\Backup-OrchardDB.ps1"
 
 $scriptpath = $MyInvocation.MyCommand.Path
